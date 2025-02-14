@@ -1,0 +1,14 @@
+.myCustomNavbarSettings {
+    background-color: #010409 !important;
+    border-bottom: white 1px solid !important;
+    height: 85px;
+    
+}
+.bodySettings {
+    background-color: #0d1117 !important;
+}
+.myNavbarElementSettings {
+    @media (min-width: 768px) {
+        margin-left: 15%; margin-right: 15%;
+    }
+}
